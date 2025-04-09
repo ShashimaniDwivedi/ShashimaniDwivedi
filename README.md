@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working on **Flutter App**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA**
 
